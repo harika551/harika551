@@ -81,7 +81,7 @@
 
 
 ##
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=harika551&count_private=true&show_icons=true&theme=radical&&include_all_commits=true)](https://github.com/harika551/github-readme-stats-1)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harika551&hide=html,css,javascript)](https://github.com/harika551/github-readme-stats-1)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=harika551&count_private=true&show_icons=true&theme=radical&&include_all_commits=true)](https://github.com/harika551/github-readme-stats-1)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harika551=html,css,javascript)](https://github.com/harika551/github-readme-stats-1)
 
 ##
 <p align="center"> 
