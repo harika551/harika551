@@ -44,7 +44,7 @@
 - 🐱‍💻 <samp>Communities(June,2021 - July,2021)<br>
 - ☄️ <samp>Intern at many Firms(August,2020-June,2021)<br>
 - ☁ <samp>30 Days of Google Cloud(Cloud Engnieering Track)<br>
-- 💡 <samp><h2>Cloud Evengalist<br><h2>
+- 💡 <samp>Cloud Evengalist<br>
 </div>
 
 ##
