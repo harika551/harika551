@@ -24,7 +24,7 @@
 <img align="right" src="https://github.com/harika551/harika551/blob/main/terminal.jpg" width="40%"/>
   <br>
 
-- 👷 <samp>Currently pursuing B.Tech in Computer Science(2019-2023) from ACOE
+- 👷 <samp>Currently pursuing B.Tech in Computer Science(2019-2023) 
 - 🔭 <samp>High School Passout- Excellence School South India(2019) - 9.2%
 - ✍🏻 <samp>Professional Web Developer
 - 🥇 <samp>Many Hackathons participant 
