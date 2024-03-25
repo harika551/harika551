@@ -1,6 +1,6 @@
-# Hey Everyone! I'm [Harika Gajjala a.k.a Harika!!](https://github.com/harika551) <img src="https://github.com/harika551/harika551/blob/main/Hi.gif" width="25px">
+# Hey Everyone! I'm Harika!!(https://github.com/harika551) <img src="https://github.com/harika551/harika551/blob/main/Hi.gif" width="25px">
 <br><br>
-<a href="https://twitter.com/GajjalaHarika1">
+<a href="https://twitter.com/Harika1">
   <img align="left" alt="HARIKA's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/gajjala-harika-a9a7941a9">
